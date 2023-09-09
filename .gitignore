@@ -1,0 +1,8 @@
+**/__pycache__
+_old
+src/testing.py
+export/**/*.stl
+export/**/*.step
+!export/**/sample_*.stl
+!export/**/sample_*.step
+.vscode
